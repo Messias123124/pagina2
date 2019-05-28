@@ -1,0 +1,77 @@
+body{
+  font-family: 'Asap', sans-serif;
+}
+
+.logo{
+  width: 130px;
+}
+.Textoimagen1{
+  position: absolute;
+  left: 6%;
+  margin-top: 30%;
+  color: white;
+}
+
+.Textoimagen2{
+  position: absolute;
+  left: 6%;
+  margin-top: 35%;
+  color: white;
+}
+
+.Textoimagen3{
+  position: absolute;
+  left: 6%;
+  margin-top: 35%;
+  color: white;
+}
+.Textoabout1{
+  position: absolute;
+  left: 45%;
+  margin-top: 5%;
+}
+.Textoabout2{
+  position: absolute;
+  margin-top: 30%;
+  margin-left: 3px;
+}
+.Textoabout3{
+  position: absolute;
+  margin-top: 35%;
+  margin-left: 3px;
+}
+.imagenaboutus{
+  position: absolute;
+  left: 37%;
+  width: 30%;
+  margin-top: 10%;
+}
+.textofaq{
+  color: red;
+  margin-top: 10%;
+  margin-left: 3px;
+}
+.textofaq2{
+  margin-left: 5px;
+  color: red;
+}
+.textofaq3{
+  margin-left: 5px;
+}
+.textofaqtitulo{
+  color: red;
+  position: absolute;
+  left: 45%;
+  margin-top: 5%;
+}
+.gta{
+  width: 100%;
+}
+
+.key {
+  width: 100%;
+}
+
+.platforms{
+  width: 100%;
+}
